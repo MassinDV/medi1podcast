@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1.000000,
+https://mediacenter.medi1.com/medi1-static//e28bf1f4-18b8-4c15-aea1-e876188c7d0a.mp3
+#EXT-X-ENDLIST
